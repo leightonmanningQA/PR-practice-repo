@@ -1,2 +1,2 @@
-# PR-practive-repo
-PR-practive-repo
+# PR-practice-repo
+PR-practice-repo
